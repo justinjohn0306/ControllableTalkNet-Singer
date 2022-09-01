@@ -13,15 +13,16 @@ of TalkNet 2, with some changes to support singing synthesis and higher audio qu
 * Added Training notebook for Google Colab users
 
  **TalkNET Singer Model Training Notebook**: <a href="https://colab.research.google.com/github/justinjohn0306/ControllableTalkNet-Singer/blob/main/TalkNet_Training_(Singer).ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+ 
+  **TalkNET Singer Model Synthesis Notebook**: <a href="https://colab.research.google.com/github/justinjohn0306/ControllableTalkNet-Singer/blob/main/Controllable_TalkNet_(Singer).ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+ 
+ 
 
 ## Requirements
 * A Google account to run Colab, or...
 * An NVIDIA GPU with 4+ GB of VRAM
 * 10 GB of free space
 
-## How to run
-### Google Colab
-* [Go to the Colab notebook](https://colab.research.google.com/drive/1aj6Jk8cpRw7SsN3JSYCv57CrR6s0gYPB) and follow the instructions.
 
 ### TalkNet Offline (Windows)
 * [Download the setup script](https://github.com/SortAnon/ControllableTalkNet/releases/latest/download/TalkNetOffline.zip)
