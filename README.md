@@ -10,6 +10,9 @@ Controllable TalkNet is a web application that lets you synthesize speech,
 which mimics the pitch and pacing of an existing audio clip. It's based on [NVIDIA's implementation](https://github.com/NVIDIA/NeMo)
 of TalkNet 2, with some changes to support singing synthesis and higher audio quality.
 
+* Added Training notebook for Google Colab users
+**TalkNET Singer Model Training Notebook**: <a href="https://colab.research.google.com/github/justinjohn0306/ControllableTalkNet-Singer/blob/main/TalkNet_Training_(Singer).ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ## Requirements
 * A Google account to run Colab, or...
 * An NVIDIA GPU with 4+ GB of VRAM
